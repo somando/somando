@@ -8,3 +8,16 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=somando&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## My Skills
+### Language
+- Python
+- Django
+- Google App Script
+- HTML5
+- CSS3
+- C Language
+### Infrastructure
+- Firebase Hosting
+### Others
+- Wordpress
