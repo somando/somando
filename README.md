@@ -18,6 +18,8 @@
 - CSS3
 - C Language
 ### Infrastructure
-- Firebase Hosting
+- Amazon EC2
+- Amazon RDS
+- Apache
 ### Others
 - Wordpress
