@@ -11,15 +11,23 @@
 
 ## My Skills
 ### Language
+[![My Skills](https://skillicons.dev/icons?i=py,django,selenium,html,css,md,c)](https://skillicons.dev)
 - Python
 - Django
 - Google App Script
 - HTML5
 - CSS3
+- Markdown
 - C Language
-### Infrastructure
-- Amazon EC2
-- Amazon RDS
-- Apache
+### Database
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
+- PostgreSQL
+- SQLite
+### Management
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+- git
+- GitHub
 ### Others
+[![My Skills](https://skillicons.dev/icons?i=vscode,wordpress)](https://skillicons.dev)
+- VSCode
 - Wordpress
