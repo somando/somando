@@ -31,3 +31,11 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,wordpress)](https://skillicons.dev)
 - VSCode
 - Wordpress
+
+## Now Studying...
+[![My Skills](https://skillicons.dev/icons?i=js,aws,gcp,docker,firebase)](https://skillicons.dev)
+- JavaScript
+- Amazon Web Services
+- Google Cloud
+- Docker
+- Firebase
