@@ -7,7 +7,7 @@
   
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=somando&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=somando&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Skills
 ### Language
