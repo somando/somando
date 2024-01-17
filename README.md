@@ -33,8 +33,9 @@
 - Wordpress
 
 ## Now Studying...
-[![My Skills](https://skillicons.dev/icons?i=js,aws,gcp,docker,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,aws,gcp,docker,firebase)](https://skillicons.dev)
 - JavaScript
+- TypeScript
 - Amazon Web Services
 - Google Cloud
 - Docker
