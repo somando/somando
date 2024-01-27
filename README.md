@@ -33,7 +33,9 @@
 - Wordpress
 
 ## Now Studying...
-[![My Skills](https://skillicons.dev/icons?i=js,ts,aws,gcp,docker,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,ts,aws,gcp,docker,firebase)](https://skillicons.dev)
+- Next.js
+- React
 - JavaScript
 - TypeScript
 - Amazon Web Services
