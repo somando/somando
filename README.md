@@ -1,4 +1,4 @@
-## Own Profile
+## 👤 Own Profile
 
 <p align="left" style="display: inline-block;"> 
   <img alt="Top Langs" height="172px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somando&layout=compact&show_icons=true&theme=github_dark_dimmed" />
@@ -9,7 +9,26 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=somando&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-## My Skills
+## 📅 Participation History
+
+### TwoGate Dev Camp 2023 Summer
+- Date: 2023/08/23 - 2023/08/29
+- Team: Team H
+- Product: [いっぺん来ぃまいうどん県](https://github.com/somando/Ippen-Kiimai-UDON-Ken)
+- Award: TwoGate賞
+
+### Open Hack U 2023 ONLINE
+- Date: 2023/09/04 - 2023/09/16
+- Team: NIGATU
+- Product: [BathTraffic](https://github.com/OPEN-HACK-U-NIGATU/BathTraffic)
+
+### Kloudハッカソン#4
+- Date: 2024/03/02 - 2024/03/17
+- Team: Ersteller
+- Product: [Chorus](https://github.com/somando/Chorus)
+- Award: デザイン賞
+
+## 🛠️ My Skills
 ### Language
 [![My Skills](https://skillicons.dev/icons?i=py,django,selenium,html,css,md,c)](https://skillicons.dev)
 - Python
@@ -32,7 +51,7 @@
 - VSCode
 - Wordpress
 
-## Now Studying...
+## 📖 Now Studying...
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,ts,aws,gcp,docker,firebase)](https://skillicons.dev)
 - Next.js
 - React
