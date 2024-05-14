@@ -1,5 +1,7 @@
 ## 📒 Portfolio
-下記ページにポートフォリオを公開しています。ぜひご覧ください。
+下記ページにポートフォリオページへアクセス可能です。
+
+ぜひご覧ください。
 
 [Soma Ando's Portfolio](https://somando.jp)
 
